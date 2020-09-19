@@ -1,5 +1,5 @@
 # Basics of programming
-## 1rd semester
+## 1st semester
 I was a small child, low-level typed language was too much for me. I mean code kinda smell for me now.
 
 Also we were using Visual Studio and I take out only files that I coded for this repo, so It's may not work right away and I don't wanna test and fix all of this.
